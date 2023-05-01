@@ -7,9 +7,9 @@
     <div class="col-md-6">
       <div class="text-container" style="color:aliceblue;">
         <div class="card-body">
-          <p class="subtitulo">Olá Galera, este é o meu portfólio</p>
           <h1 class="titulo">Igor José Bourscheid</h1>
           <b class="cargo">Dev/Desenvolvedor</b>
+          <p class="subtitulo">Olá Galera, este é o meu portfólio</p>
         </div>
       </div>
     </div>
@@ -32,5 +32,7 @@ border-radius: 10px;
   width: auto;
   height: auto;
 }
-
+.subtitulo{
+  font-size: xx-large;
+}
 </style>
