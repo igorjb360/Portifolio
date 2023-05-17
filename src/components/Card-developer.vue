@@ -2,14 +2,14 @@
 <div class="card-dev">
   <div class="row">
     <div class="col-md-6">
-      <img src="../assets/DEV_Igor.jpeg" class="img-dev img-fluid" alt="Imagem" />
+      <img src="../assets/dev_Igor.jpeg" class="img-dev img-fluid" alt="Imagem" />
     </div>
     <div class="col-md-6">
-      <div class="text-container" style="color:aliceblue;">
+      <div class="text-container">
         <div class="card-body">
           <h1 class="titulo">Igor José Bourscheid</h1>
-          <b class="cargo">Dev/Desenvolvedor</b>
-          <p class="subtitulo">Olá Galera, este é o meu portfólio</p>
+          <b class="cargo">Desenvolvedor/Futuro Cientista da computação</b>
+          <p class="subtitulo">Olá, este é o meu portfólio</p>
         </div>
       </div>
     </div>
