@@ -2,7 +2,7 @@
 <div class="card-dev">
   <div class="row">
     <div class="col-md-6">
-      <img src="../assets/dev_Igor.jpeg" class="img-dev img-fluid" alt="Imagem" />
+      <img src="../assets/dev_Igor.png" class="img-dev img-fluid" alt="Imagem" />
     </div>
     <div class="col-md-6">
       <div class="text-container">
