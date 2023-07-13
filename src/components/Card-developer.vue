@@ -18,17 +18,6 @@
 </template>
 <script></script>
 <style>
-<<<<<<< HEAD
-.img-dev{
-border-radius: 10px;
-}
-.card-dev {
-  
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-=======
  @media (max-width: 766px) {
   .img-dev{
     align-items: center;
@@ -53,7 +42,6 @@ border-radius: 10px;
   }
  }
 .card-dev {
->>>>>>> origin/master
   max-width: 100%;
   max-height: 100%;
   width: auto;
