@@ -35,6 +35,7 @@
     overflow-y: auto;
     overflow-x: hidden;
     position: absolute;
+<<<<<<< HEAD
     height: 100%;
     width: 100%;
   }
@@ -48,6 +49,25 @@
     .section-1{
       /* aqui deixei vazio pois esta conflitando com alguma outra estilização e quebra todo o layout  */
     }
+=======
+    height: auto;
+    width: auto;
+  }
+
+  .section-1 {
+    margin-top: 70px;
+    width: 100%;
+    height: 100%; 
+    margin-bottom: 70px;
+  }
+
+  @media (max-width: 933px) {
+      .section-1 {
+    width: 100%;
+    height: 100%; 
+  }
+  
+>>>>>>> origin/master
   }
 
   .section-2 {

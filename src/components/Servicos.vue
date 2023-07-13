@@ -42,7 +42,10 @@ export default {
 
 <style scoped>
 .experiencia-section {
+<<<<<<< HEAD
   margin-top: 200px;
+=======
+>>>>>>> origin/master
     text-align: center;
   }
   .titulo {

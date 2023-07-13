@@ -18,6 +18,7 @@
 </template>
 <script></script>
 <style>
+<<<<<<< HEAD
 .img-dev{
 border-radius: 10px;
 }
@@ -27,6 +28,32 @@ border-radius: 10px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+=======
+ @media (max-width: 766px) {
+  .img-dev{
+    align-items: center;
+    margin-left: 0% !important;
+    width: 50%;
+    border-radius: 10px;
+  }
+ }
+.img-dev{
+  margin-left: 50%;
+  width: 50%;
+  border-radius: 10px;
+}
+@media (max-width: 766px) {
+  .card-dev{
+ margin-left: 20%;
+  }
+ }
+ @media (max-width: 345px) {
+  .card-dev{
+    margin-left: 0% !important;
+  }
+ }
+.card-dev {
+>>>>>>> origin/master
   max-width: 100%;
   max-height: 100%;
   width: auto;
