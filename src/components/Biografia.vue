@@ -1,33 +1,78 @@
 <template>
-    <div class="container">
-      <div class="biografia" id="Biografia">
-        <h2 class="titulo">Muito Prazer, sou o Igor</h2>
-        <p>Tenho 20 anos de idade, e vou falar um pouco sobre minha trajetória na área de tecnologia.</p>
-        <p>No meu tempo livre gosto muito de ficar com minha família e jogar com meus amigos.</p>
-        <p>Foi daí que surgiu minha paixão pela tecnologia, onde meu irmão Stefano Bourcheid, também desenvolvedor de software que atualmente está trabalhando na Alemanha, e tem muitos anos de experiência na área, me mostrou o que ele fazia no dia a dia dele.</p>
-        <p>Foi aí que começou tudo. Ele comprou meu primeiro curso da Udacity de introdução a Java e JavaScript quando eu tinha uns 16 anos. Comecei a estudar a lógica de programação. Comecei pelo básico, como declarar variáveis, loops de repetições, condicionais, funções, arrays, objetos - era um curso completo. No começo foi bem difícil para mim, pois eu travava em muitas questões e por orgulho eu não pedia ajuda para meu irmão, pois eu queria aprender sozinho.</p>
-        <p>Nesse meio tempo, tive algumas experiências de trabalho. Trabalhei ajudando meus pais na empresa de limpezas de apartamentos que eles têm, também trabalhei com logística como agenciador de cargas no aplicativo FreteBras. Mas nunca parei de estudar programação. Sempre que eu me sentia entediado, voltava em alguma questão que eu estava travado e tentava pesquisar para achar a resposta e tentar entender melhor a questão.</p>
-        <p>Quando me formei no terceiro ano do ensino médio, eu estava confuso em que faculdade eu iria fazer, então decidi ligar para meu irmão e perguntei qual faculdade ele tinha feito e como era. Então decidi fazer ciência da computação. Foi aí que no primeiro semestre da faculdade, consegui meu primeiro emprego na área de desenvolvimento de software. Eu consegui um estágio na Secretaria de Educação de Itajaí-SC, para trabalhar com desenvolvimento web, onde lá tive meu primeiro contato com um sistema completo com front-end, back-end e banco de dados.</p>
-        <p>Eu só trabalhava no front-end com Vue.js junto com Vuetify. Lá eu fiz alguns cursos na Rocketset para entender melhor uma aplicação web. Criei alguns projetos, tive meu primeiro contato com o Git, comecei a entender melhor o que era framework e bibliotecas.</p>
-        <p>Trabalhei durante 1 ano e 1 mes nesse estagio ate receber a proposta de trabalhar na empresa meu crediario.</p>
-        <p>La trabalhei como Desenvolvedor full-stack-jr, trabalhei em uma equipe bem estruturada dividida em squads. nos primeiros dias fiquei com o gerente de produto debatendo sobre a regra de negocio da empresa.</p>
-        <p>trabalhei la por 5 meses e meio onde tres meses foram para experiencia depois fui efetivado.</p>
-        <p>Eu atuava no desenvolvimento de melhorias novas funcionalidades Correcoes de bugs e consulta de clientes no banco de dados do sistema de gerenciamento de crediario proprio.</p>
-        <p>Ate que fui desligado da empresa por motivos tecnicos.</p>
-        <p>Atualmente continuo buscando sempre utilizar boas praticas de codificacao e me manter sempre por dentro das noticias, dentro da area de tecnologia.</p>
-      </div>
+  <div class="container">
+    <div class="biografia" id="Biografia">
+      <h2 class="titulo">Biografia</h2>
+      <p>
+        Olá, meu nome é Igor Bourcheid e tenho a alegria de compartilhar um pouco da minha trajetória na área de tecnologia. Por esse campo onde tenho me dedicado ao aprendizado e aprimoramento contínuo.
+      </p>
+      <p>
+        Em meu tempo livre, valorizo muito minha família e desfruto de momentos descontraídos jogando com meus amigos, mas é na tecnologia que encontrei meu verdadeiro chamado.
+      </p>
+      <p>
+        Tudo começou quando meu irmão, Stefano Bourcheid, também desenvolvedor de software e com vasta experiência na área, me apresentou seu dia a dia no mundo da tecnologia. Foi nesse momento que minha curiosidade foi despertada e, aos 16 anos, recebi meu primeiro curso da Udacity, uma introdução a Java e JavaScript.
+      </p>
+      <p>
+        O início não foi fácil, enfrentei diversos desafios e obstáculos na lógica de programação, mas sempre me esforcei para aprender por conta própria. Ao longo desse período, também tive algumas experiências profissionais, como ajudar meus pais na empresa de limpezas de apartamentos e atuar como agenciador de cargas no aplicativo FreteBras. No entanto, minha dedicação à programação nunca diminuiu, e eu sempre procurava aprofundar meus conhecimentos, buscando respostas e soluções para questões que me intrigavam.
+      </p>
+      <p>
+        Ao concluir o ensino médio, enfrentei a dúvida sobre qual faculdade seguir, e mais uma vez, meu irmão foi uma inspiração ao me aconselhar sobre sua experiência em Sistemas de informação. Assim, optei por iniciar minha jornada academica em Ciencia da computação.
+      </p>
+      <p>
+        Durante o primeiro semestre da faculdade, tive a oportunidade de realizar um estágio na Secretaria de Educação de Itajaí-SC, onde mergulhei no desenvolvimento web, trabalhando com front-end. Foi nesse estágio que tive meu primeiro contato com o Vue.js em conjunto com Vuetify e descobri o fascinante mundo das frameworks e bibliotecas.
+      </p>
+      <p>
+        Após esse estágio, embarquei em uma nova etapa da minha carreira na empresa Meu Crediário, onde atuei como Desenvolvedor Full-Stack Jr. Nessa jornada, contribuindo significativamente para o desenvolvimento e aprimoramento das soluções da empresa. Minha rotina envolvia uma série de atividades desafiadoras e enriquecedoras.
+      </p>
+      <p>
+        Durante meus 5 meses e meio de trabalho na Meu Crediário, fui responsável por desenvolver melhorias, novas funcionalidades e correções de bugs, além de realizar consultas de clientes no banco de dados do sistema próprio de gerenciamento de crédito. Minha dedicação e empenho me levaram a ser efetivado após três meses de experiência.
+      </p>
+      <p>
+        Atualmente, continuo meu caminho na busca constante por utilizar boas práticas de codificação e me manter sempre atualizado com as novidades e avanços no mundo da tecnologia.
+      </p>
+      <p>
+        Estou entusiasmado para enfrentar novos projetos e desafios que a tecnologia tem a oferecer, sempre com foco no aprendizado contínuo e na superação de limites. Acredito que meu percurso é apenas o começo de uma emocionante jornada profissional na área de tecnologia.
+      </p>
+      <p>
+        Espero poder contribuir cada vez mais para esse universo em constante evolução. Obrigado por fazer parte da minha história!
+      </p>
     </div>
-  </template>
-  
-  <script>
-  </script>
-  
-  <style scoped>
-  
+  </div>
+</template>
+
+<style>
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
   .biografia {
-    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    
   }
+
   .titulo {
-    margin-bottom: 30px;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
   }
-  </style>
+
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+    .biografia {
+      font-size: 16px;
+      padding: 10px;
+    }
+    .titulo {
+      font-size: 20px;
+    }
+  }
+</style>
