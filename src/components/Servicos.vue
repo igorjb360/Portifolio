@@ -24,7 +24,7 @@ export default {
           logo: "https://media.licdn.com/dms/image/C4D0BAQGHrWNA2E_AXQ/company-logo_100_100/0/1676384098738?e=1691020800&v=beta&t=nHoVgw1kvhL17P_Q-XGFmPRxwAZYVYml0k3MUHs7Azo",
           duration: 'Junho 2022 - outubro 2022',
           role: 'Desenvolvedor Full Stack-jr',
-          description: 'Responsável pelo desenvolvimento de novas funcionalidades correcoes de bugs no sistema de crediario proprio de grande escala.'
+          description: 'Competências: Design de interface do usuário · Web Design Responsivo · Acessibilidade · HTML · CSS · AngularJS · Vue.js · TypeScript · PostgreSQL'
         },
         {
           id: 2,
@@ -32,7 +32,7 @@ export default {
           logo: 'https://educacao.itajai.sc.gov.br/img/geral/logo.jpg',
           duration: 'agosto 2021 - junho 2022',
           role: 'Estagiario-Desenvolvedor web',
-          description: 'atuei corrigindo bugs, fazendo melhorias e criando novas funcionalidades no front-end do Sistema da Secretaria de Educação.'
+          description: 'Competências: Aprendizagem profunda · HTML · CSS · Vuetify · Vue.js'
         }
       ]
     }
