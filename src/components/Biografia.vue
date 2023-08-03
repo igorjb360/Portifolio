@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="biografia" id="Biografia">
-      <h2 class="titulo">Biografia</h2>
+      <h2 class="titulo-biografia">Biografia</h2>
       <p>
         Olá, meu nome é Igor Bourcheid e tenho a alegria de compartilhar um pouco da minha trajetória na área de tecnologia. Por esse campo onde tenho me dedicado ao aprendizado e aprimoramento contínuo.
       </p>
@@ -56,7 +56,7 @@
     
   }
 
-  .titulo {
+  .titulo-biografia {
     font-size: 24px;
     text-align: center;
     margin-bottom: 20px;
@@ -70,9 +70,6 @@
     .biografia {
       font-size: 16px;
       padding: 10px;
-    }
-    .titulo {
-      font-size: 20px;
     }
   }
 </style>
