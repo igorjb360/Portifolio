@@ -21,7 +21,7 @@ export default {
         {
           id: 1,
           name: 'Meu crediario',
-          logo: "https://media.licdn.com/dms/image/C4D0BAQGHrWNA2E_AXQ/company-logo_100_100/0/1676384098738?e=1698883200&v=beta&t=YzPWaVDYQkDHz63uT18rIK7Kpl6_A8VAk6sG4LB_LPQ",
+          logo: "https://media.licdn.com/dms/image/C4D0BAQGHrWNA2E_AXQ/company-logo_100_100/0/1676384099219/meu_credirio_logo?e=1714608000&v=beta&t=o2MVFMurIXkpYGq_PINWM7S0aNzRae-HVHJJgBTZ9L0",
           duration: 'Junho 2022 - outubro 2022',
           role: 'Desenvolvedor Full Stack-jr',
           description: 'Competências: Design de interface do usuário · Web Design Responsivo · Acessibilidade · HTML · CSS · AngularJS · Vue.js · TypeScript · PostgreSQL'
