@@ -6,13 +6,13 @@
       <div class="informacoes-contato">
         <div class="icons-contato">
           <a href="https://www.linkedin.com/in/igor-jose-bourscheid-b695651a6/">
-            <img src="https://icomoon.io/iconsabf18a1/4/456.svg" alt="icone do linkedin" />
+            <img src="/app/icomoon-lib/icons4acad3d/4/456.svg" alt="icone do linkedin" />
           </a>
           <a href="https://wa.me/47992303661">
-            <img src="https://icomoon.io/iconsabf18a1/4/880.svg" alt="icone do whatsapp" />
+            <img src="/app/icomoon-lib/icons4acad3d/4/880.svg" alt="icone do whatsapp" />
           </a>
           <a href="https://www.instagram.com/igjbourscheid/">
-            <img src="https://icomoon.io/iconsabf18a1/4/387.svg" alt="icone do intagram" style="margin-right: 50px;" />
+            <img src="/app/icomoon-lib/icons4acad3d/4/387.svg" alt="icone do intagram" style="margin-right: 50px;" />
           </a>
         </div>
         <div class="dados-contato">
