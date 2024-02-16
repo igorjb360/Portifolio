@@ -20,12 +20,12 @@
   </template>
 
   <script setup>
-  import Navbar from './components/Navbar.vue'
-  import CardDeveloper from './components/Card-developer.vue'
-  import Biografia from './components/Biografia.vue'
-  import Servicos from './components/Servicos.vue'
-  import Projetos from './components/Projetos.vue'
-  import Contato from './components/Contato.vue'
+  import Navbar from './views/Navbar.vue'
+  import CardDeveloper from './views/Card-developer.vue'
+  import Biografia from './views/Biografia.vue'
+  import Servicos from './views/Servicos.vue'
+  import Projetos from './views/Projetos.vue'
+  import Contato from './views/Contato.vue'
 
 
   </script>
