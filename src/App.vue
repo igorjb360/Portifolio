@@ -5,7 +5,7 @@
         <card-developer></card-developer>
       </section>
       <section class="section-2">
-          <Biografia></Biografia>
+          <Ferramentas></Ferramentas>
         </section>
         <section class="section-3">
           <Servicos></Servicos>
@@ -22,7 +22,7 @@
   <script setup>
   import Navbar from './views/Navbar.vue'
   import CardDeveloper from './views/Card-developer.vue'
-  import Biografia from './views/Biografia.vue'
+  import Ferramentas from './views/Ferramentas.vue'
   import Servicos from './views/Servicos.vue'
   import Projetos from './views/Projetos.vue'
   import Contato from './views/Contato.vue'
@@ -31,6 +31,7 @@
   </script>
 
 <style scoped>
+
 .page {
 overflow-y: auto;
 overflow-x: hidden;
@@ -38,6 +39,7 @@ position: absolute;
 height: auto;
 width: auto;
 }
+
 
 .section-1 {
 margin-top: 70px;

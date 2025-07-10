@@ -8,7 +8,7 @@
       <div class="text-container">
         <div class="card-body">
           <h1 class="titulo">Igor José Bourscheid</h1>
-          <b class="cargo">Desenvolvedor/Futuro Cientista da computação</b>
+          <b class="cargo">Tecnologia da Informação</b>
           <p class="subtitulo">Olá, este é o meu portfólio</p>
         </div>
       </div>

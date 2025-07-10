@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <nav class="navbar navbar-expand-md navbar-dark">
   <div class="container-fluid">
@@ -21,5 +22,9 @@
  .nome{
   font-size: larger;
   margin-right: 100px;
+} 
+
+.navbar-nav a:hover {
+  transform: translateY(-5px);
 }
 </style>

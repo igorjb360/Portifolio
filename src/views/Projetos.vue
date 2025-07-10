@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div id="Projetos" class="projetos">
     <h2 class="titulo">Meus Repositórios do GitHub</h2>
