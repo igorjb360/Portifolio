@@ -45,6 +45,7 @@
   margin: 0 auto;
   }
   .titulo{
+    text-align: center;
     margin-bottom: 30px;
   }
   .projetos ul {

@@ -1,15 +1,47 @@
 <template>
   <div class="ferramentas">
     <h1>Ferramentas</h1>
+
     <div class="icones">
-      <img src="@/assets/javascript-icon.svg" alt="Ícone do JavaScript" />
-      <img src="@/assets/react-icon.svg" alt="Ícone do React" />
-      <img src="@/assets/vuejs-icon.svg" alt="Ícone do Vue.js" />
-      <img src="@/assets/mysql-icon.svg" alt="Ícone do MySQL" />
-      <img src="@/assets/typescript-icon.svg" alt="Ícone do TypeScript" />
-      <img src="@/assets/angularjs-icon.svg" alt="Ícone do AngularJS" />
-      <img src="@/assets/html-icon.svg" alt="Ícone do HTML" />
-      <img src="@/assets/css-icon.svg" alt="Ícone do CSS" />
+      <div class="item">
+        <img src="@/assets/javascript-icon.svg" alt="JavaScript" />
+        <span>JavaScript</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/react-icon.svg" alt="React" />
+        <span>React</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/vuejs-icon.svg" alt="Vue.js" />
+        <span>Vue.js</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/mysql-icon.svg" alt="MySQL" />
+        <span>MySQL</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/typescript-icon.svg" alt="TypeScript" />
+        <span>TypeScript</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/angularjs-icon.svg" alt="Angular" />
+        <span>Angular</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/html-icon.svg" alt="HTML" />
+        <span>HTML</span>
+      </div>
+
+      <div class="item">
+        <img src="@/assets/css-icon.svg" alt="CSS" />
+        <span>CSS</span>
+      </div>
     </div>
   </div>
 </template>
@@ -22,32 +54,65 @@ export default {};
 .ferramentas {
   text-align: center;
   margin-top: 40px;
+  padding: 20px;
 }
 
 .ferramentas h1 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-  color: #fff; /* ajusta pra combinar com fundo */
+  color: #fff;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
 }
 
 .icones {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 45px;
   max-width: 900px;
   margin: 0 auto;
 }
 
-.icones img {
-  width: 100px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
+.item {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.icones img:hover {
+.item img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  transition: transform .3s ease;
+}
+
+.item span {
+  margin-top: 12px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.item:hover img {
   transform: scale(1.15);
-  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 768px) {
+  .icones {
+    gap: 30px;
+  }
+
+  .item {
+    width: 100px;
+  }
+
+  .item img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .item span {
+    font-size: 14px;
+  }
 }
 </style>
