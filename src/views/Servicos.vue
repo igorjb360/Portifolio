@@ -2,26 +2,73 @@
   <div class="servicos">
     <h1>Experiência Profissional</h1>
 
+    <!-- SMX Logistics -->
+    <div class="experiencia">
+      <h2>IT Analyst</h2>
+      <p><strong>Empresa:</strong> SMX Logistics</p>
+      <p><strong>Período:</strong> nov de 2025 - o momento</p>
+      <p><strong>Local:</strong> Itajaí, Santa Catarina, Brasil - No local</p>
+
+      <ul>
+        <li>
+          Atendimento e resolução de chamados de Infraestrutura de TI,
+          garantindo a continuidade das operações
+        </li>
+        <li>
+          Gestão de acessos e bloqueios em sistemas e ambientes corporativos
+        </li>
+        <li>
+          Suporte técnico aos usuários, com foco em agilidade e qualidade no atendimento
+        </li>
+        <li>
+          Diagnóstico e resolução de lentidão e falhas em máquinas e estações de trabalho
+        </li>
+        <li>
+          Manutenção da estabilidade, segurança e performance dos sistemas de TI
+        </li>
+        <li>
+          Participação em reuniões de alinhamento estratégico com as áreas da empresa
+        </li>
+        <li>
+          Análise e organização de dados corporativos relacionados à TI
+        </li>
+        <li>
+          Gestão e controle do inventário de ativos de TI
+        </li>
+        <li>
+          Acompanhamento e apoio em projetos de infraestrutura, visando melhoria
+          contínua de processos e da experiência dos usuários
+        </li>
+      </ul>
+    </div>
+
+    <!-- Escrita Contabilidade -->
     <div class="experiencia">
       <h2>Assistente de Inovação em TI</h2>
       <p><strong>Empresa:</strong> Escrita Contabilidade de Empresas</p>
-      <p><strong>Período:</strong> abr de 2024 - momento - 8 meses</p>
+      <p><strong>Período:</strong> abr de 2024 - nov de 2025</p>
       <p><strong>Local:</strong> Itajaí, Santa Catarina, Brasil - Presencial</p>
+
       <ul>
         <li>Suporte para sistema de contabilidade</li>
         <li>Criação de novas funcionalidades em micro serviços</li>
         <li>Suporte técnico especializado em hardware e software</li>
         <li>Automação de processos e otimização de operações</li>
-        <li>Desenvolvimento utilizando HTML, CSS, JavaScript, React.js, TypeScript e SQL</li>
+        <li>
+          Desenvolvimento utilizando HTML, CSS, JavaScript, React.js,
+          TypeScript e SQL
+        </li>
         <li>Gestão e manutenção de servidores</li>
       </ul>
     </div>
 
+    <!-- Lactalis American Group -->
     <div class="experiencia">
       <h2>Técnico de Infraestrutura de TI</h2>
       <p><strong>Empresa:</strong> Lactalis American Group</p>
       <p><strong>Período:</strong> ago de 2023 - mar de 2024 - 8 meses</p>
       <p><strong>Local:</strong> Itajaí, Santa Catarina, Brasil - Presencial</p>
+
       <ul>
         <li>Administração de Servidores</li>
         <li>Redes e Comunicações</li>
@@ -34,36 +81,103 @@
       </ul>
     </div>
 
+    <!-- SLTECH -->
     <div class="experiencia">
       <h2>Analista de Suporte</h2>
-      <p><strong>Empresa:</strong> SLTECH Provedor de Serviços Gerenciados em TI</p>
+      <p>
+        <strong>Empresa:</strong>
+        SLTECH Provedor de Serviços Gerenciados em TI
+      </p>
       <p><strong>Período:</strong> jun de 2023 - jul de 2023 - 2 meses</p>
       <p><strong>Local:</strong> Itajaí, Santa Catarina, Brasil - Presencial</p>
+
       <ul>
         <li>Atender chamados através da plataforma de tickets Tiflux</li>
-        <li>Receber chamados dos usuários para resolver diversos tipos de problemas</li>
-        <li>Problemas no OneDrive (armazenamento e sincronização na nuvem)</li>
-        <li>Problemas na rede da empresa (diagnosticar e solucionar falhas)</li>
-        <li>Problemas no servidor (identificar e resolver possíveis falhas no serviço da empresa)</li>
+        <li>
+          Receber chamados dos usuários para resolver diversos tipos de problemas
+        </li>
+        <li>
+          Problemas no OneDrive (armazenamento e sincronização na nuvem)
+        </li>
+        <li>
+          Problemas na rede da empresa (diagnosticar e solucionar falhas)
+        </li>
+        <li>
+          Problemas no servidor (identificar e resolver possíveis falhas no
+          serviço da empresa)
+        </li>
         <li>Criação de VPN para acesso seguro à rede da empresa</li>
-        <li>Configuração de estação de trabalho remoto para segurança e funcionamento</li>
+        <li>
+          Configuração de estação de trabalho remoto para segurança e funcionamento
+        </li>
         <li>Outras tarefas relacionadas ao suporte técnico em TI</li>
       </ul>
     </div>
 
+    <!-- Meu Crediário -->
     <div class="experiencia">
       <h2>Desenvolvedor Full-Stack Jr</h2>
       <p><strong>Empresa:</strong> Meu Crediário</p>
       <p><strong>Período:</strong> jun de 2022 - out de 2022 - 5 meses</p>
       <p><strong>Local:</strong> Rio do Sul, Santa Catarina, Brasil - Híbrida</p>
+
       <ul>
-        <li>Participação em reuniões diárias com a equipe para alinhamento e progresso dos projetos</li>
-        <li>Utilização da plataforma Trello para receber tarefas diárias</li>
-        <li>Responsabilidade pela resolução de bugs no desenvolvimento de software</li>
-        <li>Criação de novas funcionalidades tanto no front-end quanto no back-end</li>
-        <li>Realização de melhorias no front-end e back-end dos sistemas</li>
-        <li>Execução de consultas de clientes no banco de dados utilizando a ferramenta DBeaver com linguagem SQL</li>
-        <li>Integração com APIs para conectar sistemas ou serviços de terceiros ao software da empresa</li>
+        <li>
+          Participação em reuniões diárias com a equipe para alinhamento e
+          progresso dos projetos
+        </li>
+        <li>
+          Utilização da plataforma Trello para receber tarefas diárias
+        </li>
+        <li>
+          Responsabilidade pela resolução de bugs no desenvolvimento de software
+        </li>
+        <li>
+          Criação de novas funcionalidades tanto no front-end quanto no back-end
+        </li>
+        <li>
+          Realização de melhorias no front-end e back-end dos sistemas
+        </li>
+        <li>
+          Execução de consultas de clientes no banco de dados utilizando a
+          ferramenta DBeaver com linguagem SQL
+        </li>
+        <li>
+          Integração com APIs para conectar sistemas ou serviços de terceiros
+          ao software da empresa
+        </li>
+      </ul>
+    </div>
+
+    <!-- Secretaria de Educação de Itajaí -->
+    <div class="experiencia">
+      <h2>Estagiário de Desenvolvimento Web</h2>
+      <p><strong>Empresa:</strong> Secretaria de Educação de Itajaí</p>
+      <p><strong>Período:</strong> ago de 2021 - jun de 2022 - 11 meses</p>
+      <p><strong>Local:</strong> Itajaí, Santa Catarina, Brasil - No local</p>
+
+      <ul>
+        <li>
+          Apoio na criação e manutenção de sistemas web voltados à área educacional
+        </li>
+        <li>
+          Participação no desenvolvimento de novas funcionalidades
+        </li>
+        <li>
+          Realização de testes e depuração de aplicações
+        </li>
+        <li>
+          Utilização de tecnologias como HTML, CSS e JavaScript
+        </li>
+        <li>
+          Participação em reuniões para alinhamento de metas e progresso dos projetos
+        </li>
+        <li>
+          Contribuição com ideias e sugestões para melhorias nos sistemas
+        </li>
+        <li>
+          Pesquisa de tendências e atualização constante em desenvolvimento web
+        </li>
       </ul>
     </div>
   </div>
