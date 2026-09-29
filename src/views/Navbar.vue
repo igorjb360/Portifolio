@@ -8,7 +8,6 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active text-white" aria-current="page" href="#Biografia">Biografia</a>
         <a class="nav-link text-white" href="#Servicos">Serviços</a>
         <a class="nav-link text-white" href="#Projetos">Projetos</a>
         <a class="nav-link text-white" href="#Contato">Contato</a>
